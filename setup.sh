@@ -121,7 +121,7 @@ echo "##########################################"
 echo " Installing useful packages"
 echo "##########################################"
 
-sudo apt-get install curl git unzip zip tar gzip wget pigz tree mycli -y
+sudo apt-get install curl git unzip zip tar gzip wget pigz tree mycli -y nodejs npm composer 
 
 # increase history size
 export HISTSIZE=10000
